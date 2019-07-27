@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/main",
+    "pages/list/main"
+  ],
+  "window": {
+    
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationStyle": "default",
+    "backgroundColor": "#ffffff",
+    "backgroundTextStyle": "dark",
+    "backgroundColorTop": "#ffffff",
+    "backgroundColorBottom": "#ffffff",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50
+  }
+  
+}
